@@ -3,7 +3,7 @@ import './Nav.css'
 import WbSunnyIcon from '@material-ui/icons/WbSunny';
 import Brightness3Icon from '@material-ui/icons/Brightness3';
 import ToggleOffIcon from '@material-ui/icons/ToggleOff';
-import Logo from'/Users/stephen/jobs-app/src/images/logo.svg'
+import Logo from'src/logo.svg'
 function Nav() {
     return (
         <div className="nav">
