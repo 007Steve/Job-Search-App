@@ -8,6 +8,11 @@
     height: 110px;
     border-bottom-left-radius: 80px;
 }
+
+.nav__header > h2{
+    margin-left: 40px;
+    color: rgb(251, 253, 255);
+}
 .nav__logo{
   height:45px ;
 }
