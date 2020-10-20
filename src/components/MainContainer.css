@@ -1,6 +1,6 @@
 .mainContainer{
     display: grid;
-    grid-template-columns:370px 370px 370px ;
+    grid-template-columns: 370px 370px 370px ;
     margin-top: 50px;
     justify-content: center;
     flex-wrap: wrap;
